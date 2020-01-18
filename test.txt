@@ -1,0 +1,177 @@
+Enter file name: hello.dat
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+3
+Enter product name: 
+ product name: 
+Enter producer name: 
+producer name
+Enter measure unit: 
+measure unit
+Enter year: 
+2019
+Enter month: 
+12
+Enter day: 
+10
+Enter hour: 
+23
+Enter minute: 
+11
+Enter second: 
+23
+Enter count: 
+10000
+Enter price per one: 
+1234.12
+Successfully inserted. Id: 1
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+4
+1: Order Info:
+	product name: ' product name: '
+	producer: 'producer name'
+	measure unit: 'measure unit'
+	acquire date: 2020-01-10 23:11:23 
+	count: 10000
+	price for one: 1234.12
+
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+2
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+3
+Enter product name: 
+hello
+Enter producer name: 
+world
+Enter measure unit: 
+kg
+Enter year: 
+1994
+Enter month: 
+04
+Enter day: 
+11
+Enter hour: 
+3
+Enter minute: 
+11
+Enter second: 
+1
+Enter count: 
+40000000
+Enter price per one: 
+0.01
+Successfully inserted. Id: 2
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+4
+1: Order Info:
+	product name: ' product name: '
+	producer: 'producer name'
+	measure unit: 'measure unit'
+	acquire date: 2020-01-10 23:11:23 
+	count: 10000
+	price for one: 1234.12
+
+2: Order Info:
+	product name: 'hello'
+	producer: 'world'
+	measure unit: 'kg'
+	acquire date: 1994-05-11 03:11:01 
+	count: 40000000
+	price for one: 0.01
+
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+2
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+1
+Enter file name: hello.dat
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+4
+1: Order Info:
+	product name: ' product name: '
+	producer: 'producer name'
+	measure unit: 'measure unit'
+	acquire date: 2020-01-10 23:11:23 
+	count: 10000
+	price for one: 1234.12
+
+2: Order Info:
+	product name: 'hello'
+	producer: 'world'
+	measure unit: 'kg'
+	acquire date: 1994-05-11 03:11:01 
+	count: 40000000
+	price for one: 0.01
+
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+8
+Enter start date: 
+Enter year: 
+1900
+Enter month: 
+10
+Enter day: 
+1
+Enter hour: 
+1
+Enter minute: 
+1
+Enter second: 
+1
+Enter end date: 
+Enter year: 
+2030
+Enter month: 
+1
+Enter day: 
+1
+Enter hour: 
+1
+Enter minute: 
+1
+Enter second: 
+1
+1: Order Info:
+	product name: ' product name: '
+	producer: 'producer name'
+	measure unit: 'measure unit'
+	acquire date: 2020-01-10 23:11:23 
+	count: 10000
+	price for one: 1234.12
+
+2: Order Info:
+	product name: 'hello'
+	producer: 'world'
+	measure unit: 'kg'
+	acquire date: 1994-05-11 03:11:01 
+	count: 40000000
+	price for one: 0.01
+
+1 (Load), 2 (Save), 3 (Add el), 4 (Show all), 5 (Show one), 6 (Update), 7 (Delete), 8(Search by date)
+
+
+
+
+//////
+1: Order Info:
+	product name: ' product name: '
+	producer: 'producer name'
+	measure unit: 'measure unit'
+	acquire date: 2020-01-10 23:11:23
+	count: 10000
+	price for one: 1234.12
+
+2: Order Info:
+	product name: 'hello'
+	producer: 'world'
+	measure unit: 'kg'
+	acquire date: 1994-05-11 03:11:01
+	count: 40000000
+	price for one: 0.01
+
+3: Order Info:
+	product name: 'Acer aspire'
+	producer: 'Acer'
+	measure unit: 'kg'
+	acquire date: 2020-01-12 12:12:12
+	count: 1000
+	price for one: 30000.00
